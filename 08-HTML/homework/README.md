@@ -6,14 +6,14 @@ Ahora que nos ha visto crear un archivo HTML y una hoja de estilo externa, crear
 
 Crear un nuevo archivo dentro de la carpeta `homework` llamado `homework.html` donde deberás realizar lo siguiente:
 ```
-I. Cree una página HTML básica.
-  A. Cree el diseño básico para una página HTML usando html, head y body.
-  B. Agregue un elemento de título y asigne a su página el título de "Tarea HTML de [Su nombre]".
-  C. En el cuerpo, crea tres divs.
+I. Cree una página HTML básica.x
+  A. Cree el diseño básico para una página HTML usando html, head y body.x
+  B. Agregue un elemento de título y asigne a su página el título de "Tarea HTML de [Su nombre]".x
+  C. En el cuerpo, crea tres divs.x
     1. En el primer div crea:
-      * un elemento h1 que contiene [Tu nombre].
-      * un elemento h3 que contiene "Henry".
-      * un elemento h4 que contiene "tarea de HTML / CSS".
+      * un elemento h1 que contiene [Tu nombre].x
+      * un elemento h3 que contiene "Henry".x
+      * un elemento h4 que contiene "tarea de HTML / CSS".x
     2. En el segundo div crea:
       * un elemento span que contiene texto que describe su comida favorita.
       * un elemento 'a' que se vincula a su restaurante favorito.
@@ -24,9 +24,9 @@ I. Cree una página HTML básica.
 
 ```
 II Añade un poco de estilo
-  A. Agregue la etiqueta de estilo a su documento HTML.
-  B. Asignar al tercer div el id "thirdDiv".
-  C. Asignar a los otros divs la clase "divClass".
+  A. Agregue la etiqueta de estilo a su documento HTML.x
+  B. Asignar al tercer div el id "thirdDiv".x
+  C. Asignar a los otros divs la clase "divClass".x
   D. Asignar al span que se encuentra dentro de su segundo div el id "spanId".
   E. Agregue una regla de estilo a su elemento h1 cambiando el color del texto (Listado de colores: https://www.crockford.com/wrrrld/color.html).
   F. Agregue una regla de estilo al elemento img dándole un ancho de 400px.
